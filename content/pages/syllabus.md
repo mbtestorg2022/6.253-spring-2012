@@ -49,22 +49,136 @@ Topics Covered
 
 The text is modular, and the following sequence involves no loss of continuity.
 
-| TOPICS | READINGS |
-| --- | --- |
-| Basic convexity concepts | Sections 1.1–1.4 |
-| Convexity and optimization | Chapter 3 |
-| Hyperplanes and conjugacy | Sections 1.5–1.6 |
-| Polyhedral convexity | Chapter 2 |
-| Geometric duality framework | Chapter 4 |
-| Duality theory: Lagrangian duality, Fenchel duality, conic duality, saddle point theory | Sections 5.1–5.3, 5.5 |
-| Subgradients and optimality conditions | Section 5.4 |
-| Algorithms: subgradient methods, polyhedral approximation methods, proximal and bundle methods, interior point methods, optimal algorithms and complexity | Chapter 6 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Basic convexity concepts
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.1–1.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Convexity and optimization
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hyperplanes and conjugacy
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.5–1.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Polyhedral convexity
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Geometric duality framework
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Duality theory: Lagrangian duality, Fenchel duality, conic duality, saddle point theory
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 5.1–5.3, 5.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Subgradients and optimality conditions
+{{< tdclose >}}
+{{< tdopen >}}
+Section 5.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Algorithms: subgradient methods, polyhedral approximation methods, proximal and bundle methods, interior point methods, optimal algorithms and complexity
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 25% |
-| Midterm | 25% |
-| Term paper | 50%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term paper
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
