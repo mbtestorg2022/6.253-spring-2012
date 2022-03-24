@@ -328,7 +328,7 @@ Steepest descent method
 [Lecture 14 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec14)
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 6: Convex Optimization Algorithms (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.athenasc.com/convexdualitychapter.pdf)
+[Chapter 6: Convex Optimization Algorithms (PDF)](http://www.athenasc.com/convexdualitychapter.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -500,7 +500,7 @@ Cyclic and randomized component selection
 {{< tdopen >}}
 
 
-Bertsekas, Dimitri. ["Incremental Gradient, Subgradient, and Proximal Methods for Convex Optimization: A Survey." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://web.mit.edu/dimitrib/www/Incremental_Survey_LIDS.pdf) _Laboratory for Information and Decision Systems Report LIDS-P-2848_, MIT, August 2010.
+Bertsekas, Dimitri. ["Incremental Gradient, Subgradient, and Proximal Methods for Convex Optimization: A Survey." (PDF)](http://web.mit.edu/dimitrib/www/Incremental_Survey_LIDS.pdf) _Laboratory for Information and Decision Systems Report LIDS-P-2848_, MIT, August 2010.
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016469) Sra, Suvrit, Sebastian Nowozin, and Stephen Wright, eds. [_Optimization for Machine Learning_](https://mitpress.mit.edu/9780262016469). MIT Press, 2011. ISBN: 9780262016469.
 

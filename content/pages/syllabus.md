@@ -32,7 +32,7 @@ Textbook
 
 Bertsekas, Dimitri. [_Convex Optimization Theory_](http://www.athenasc.com/convexduality.html). Athena Scientific, 2009. ISBN: 9781886529311.
 
-[Chapter 6: Convex Optimization Algorithms (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.athenasc.com/convexdualitychapter.pdf)
+[Chapter 6: Convex Optimization Algorithms (PDF)](http://www.athenasc.com/convexdualitychapter.pdf)
 
 [Summary of concepts and results (PDF)]({{< baseurl >}}/resources/mit6_253s12_summary) (Courtesy of Athena Scientific. Used with permission.)
 
