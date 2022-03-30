@@ -4,6 +4,7 @@ description: 'This resource contains solutions for the problem statements relate
   to composite function. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-253-convex-analysis-and-optimization-spring-2012/f3c9d9506f80f996010915cf8a86b57d_MIT6_253S12_hw04_sol.pdf
 file_type: application/pdf
+parent_uid: 3c7b3804-e304-46e2-a516-8a89712dcc82
 resourcetype: Document
 title: 6.253 Convex Analysis and Optimization, Homework 04 Solutions
 uid: f3c9d950-6f80-f996-0109-15cf8a86b57d
